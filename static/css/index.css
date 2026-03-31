@@ -19,6 +19,15 @@ body {
     margin-bottom: 5px;
 }
 
+/* Ensure the group of publication links aligns buttons and dropdowns */
+.publication-links {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
 .dnerf {
   font-variant: small-caps;
 }
