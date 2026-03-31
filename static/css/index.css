@@ -8,6 +8,12 @@ body {
     color: #000;
 }
 
+.link-block {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 0.35rem;
+}
+
 .link-block a {
     margin-top: 5px;
     margin-bottom: 5px;
